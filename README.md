@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajendra Mewada</h1>
 <h3 align="center">A passionate Full-Stack webdeveloper</h3>
 
-- 🔭 I’m currently working on **RoomQuest**
+- 🔭 I’m currently working on **RoomQuest** . This is my website or Dream 
 
 - 🌱 I’m currently learning **React and MySQL**
 
-- 👨‍💻 All of my projects are available at [github.com//rajendr3739](github.com//rajendr3739)
+- 👨‍💻 All of my projects are available at (github.com//rajendr93971)
 
-- 💬 Ask me about **Prompt engineering,HTML5, CSS3, JavaScript,C,C++ programming languages and figma, locofy.ai , OOPs, DBMS, Operating System**
+- 💬 Ask me about **Prompt engineering, HTML5, CSS3, JavaScript, C, C++ programming languages and figma, locofy.ai , OOPs, DBMS, Operating System**
 
 - 📫 How to reach me **rajputrajendra929@gmail.com
 
